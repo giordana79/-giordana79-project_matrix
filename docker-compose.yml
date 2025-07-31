@@ -12,7 +12,7 @@ services:
       - MATRIX_HOMESERVER_URL=https://matrix.sito.it
       - MATRIX_USER=@giordana:matrix.sito.it
       - MATRIX_PASSWORD=xxxxxxx
-      - MATRIX_ROOM_ID=!NZjipmSSzPqrGSIpEo:matrix.sito.it
+      - MATRIX_ROOM_ID=!MQflrnPPvQqrFRLkAv:matrix.sito.it
     networks:
       - backend
 
